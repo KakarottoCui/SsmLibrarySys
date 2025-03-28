@@ -1,7 +1,7 @@
 # SsmLibrarySys
 基于java SSM框架的图书管理系统
 
-演示视频链接：https://live.csdn.net/v/264127
+演示视频链接：https://www.bilibili.com/video/BV1Hd4y1Y7RV/
 
 实现的功能
 
